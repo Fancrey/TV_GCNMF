@@ -12,4 +12,5 @@ M. Tian, C. Leng, H. Wu, and A. Basu, "Total Variation Constrained Graph-Regular
   year={2020},
   publisher={IEEE}
 }
-The codes is under GNU GPL3.0
+
+The codes is under GNU General Public License, version 3 (GPL-3.0)
